@@ -9,3 +9,4 @@
   * [Financial data pipeline](research/financial-data-pipeline.md)
   * [Covariance Engineering](research/covariance-engineering.md)
   * [Risk Analytics](research/risk-analytics.md)
+  * [Portfolio dataset scaling](research/portfolio-dataset-scaling.md)
