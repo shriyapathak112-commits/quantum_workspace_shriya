@@ -7,3 +7,4 @@
   * [Covariance Matrices](research/covariance-matrices.md)
   * [Data Engineering Pipeline](research/data-engineering-pipeline.md)
   * [Financial data pipeline](research/financial-data-pipeline.md)
+  * [Covariance Engineering](research/covariance-engineering.md)
