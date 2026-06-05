@@ -12,3 +12,4 @@
   * [Portfolio dataset scaling](research/portfolio-dataset-scaling.md)
   * [Experiment tracking setup](research/experiment-tracking-setup.md)
   * [VQE Fundamentals](research/vqe-fundamentals.md)
+  * [Portfolio Risk Minimization](research/portfolio-risk-minimization.md)
