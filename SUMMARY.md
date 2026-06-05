@@ -15,3 +15,4 @@
   * [Portfolio Risk Minimization](research/portfolio-risk-minimization.md)
   * [Ansatz Design](research/ansatz-design.md)
   * [Parameter Shift Rule](research/parameter-shift-rule.md)
+  * [VQE Convergence Analysis](research/vqe-convergence-analysis.md)
