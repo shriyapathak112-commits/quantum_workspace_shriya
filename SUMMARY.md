@@ -14,3 +14,4 @@
   * [VQE Fundamentals](research/vqe-fundamentals.md)
   * [Portfolio Risk Minimization](research/portfolio-risk-minimization.md)
   * [Ansatz Design](research/ansatz-design.md)
+  * [Parameter Shift Rule](research/parameter-shift-rule.md)
